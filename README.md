@@ -1,5 +1,9 @@
 # Museum Of Candy - Web Bootcamp Project
 
+## Live Site
+
+[Link to Live Site](https://mbilal-x.github.io/web-bootcamp__Museum-Of-Candy) 
+
 ![Project Preview](./desktop__screencapture.png)
 
 This repository contains a Museum of Candy project that I built as part of Udemy's Web Development Bootcamp by Colt Steele. The website showcases a virtual museum of candy with a focus on creative design and interactive elements.
